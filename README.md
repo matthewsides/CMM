@@ -28,3 +28,12 @@ Furthermore process discipline helps ensure that existing practices are retained
 Moreover Project status and the delivery of services are visible to management at defined points (for example, at major milestones and at the completion of major tasks), critical in ensuring the software is up  to the standard set (software quality).
 
 Basic project management processes are established to track cost, schedule, and functionality. The minimum process discipline is in place to repeat earlier successes on projects with similar applications and scope, thus ensuring a set quality, whilst slightly imrpoving the quality over time (or each project).Though there is still a significant risk of exceeding cost and time estimate.
+
+### Managed
+
+Another approach to applying CMM for the improvement of the quality of software consists of the pratice of using precise measurements, to effectively control and manage the software development effort. Furthermore the benefits of  management can identify ways to adjust and adapt the process to particular projects without measurable losses of quality or deviations from specifications.Moreover utilising this metholodgy a quantitative quality goal are usually set for both software process and software maintenance.
+
+Whilst subprocesses can be and are selected that significantly contribute to overall process performance. These selected subprocesses are controlled using statistical and other quantitative techniques.
+
+A critical distinction between maturity level 3 (Defined) and maturity level 4 (Managed) is the predictability of process performance. At maturity level 4, the performance of processes is controlled using statistical and other quantitative techniques, and is quantitatively predictable. At maturity level 3, processes are only qualitatively predictable.
+
